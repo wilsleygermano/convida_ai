@@ -8,6 +8,7 @@ class AppTheme {
       titleMedium: TextStyle(
         fontFamily: GoogleFonts.inter().fontFamily,
         fontSize: 24,
+        color: AppColors.textcolors,
       ),
     ),
     backgroundColor: AppColors.backgroundcolor,
@@ -16,6 +17,10 @@ class AppTheme {
     ),
     appBarTheme: AppBarTheme(
       backgroundColor: AppColors.backgroundcolor,
+      titleTextStyle: TextStyle(
+        color: AppColors.titletextcolor,
+        fontWeight: FontWeight.bold,
+      ),
       iconTheme: IconThemeData(
         color: AppColors.buttoncolors,
       ),

@@ -10,6 +10,6 @@ class AppColors {
   static Color linedivider = HexColor('C4C4C4');
   static Color linetextfield = HexColor('AC1900');
   static Color backgroundcolor = Colors.white;
-  
+  static Color titletextcolor = HexColor('dd5d4a');
 
 }
