@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1021878760977",
+    "project_id": "convidaaidatabase",
+    "storage_bucket": "convidaaidatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021878760977:android:9f57fcdedba7b973b8e3b0",
+        "android_client_info": {
+          "package_name": "com.example.convida_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021878760977-p8amiqcu0eck6ttvd138juoorh8p5njo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.convida_ai",
+            "certificate_hash": "2011859d688d91bc5b33f1ee74fc8cd227a908ee"
+          }
+        },
+        {
+          "client_id": "1021878760977-q89chvrtf67resgm166ed1t03p4do5e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw6rP_3uRRgSsSGBoTMjl2PvtfWrWbhXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021878760977-q89chvrtf67resgm166ed1t03p4do5e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
