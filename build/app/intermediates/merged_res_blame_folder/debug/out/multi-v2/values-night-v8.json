@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/germano/Documents/GitHub/convida_ai/convida_ai/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/germano/Documents/GitHub/convida_ai/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/germano/Documents/GitHub/convida_ai/convida_ai/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/germano/Documents/GitHub/convida_ai/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

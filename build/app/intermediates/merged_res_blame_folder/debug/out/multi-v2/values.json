@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/germano/Documents/GitHub/convida_ai/convida_ai/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/germano/Documents/GitHub/convida_ai/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/germano/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/values/values.xml",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "/Users/germano/Documents/GitHub/convida_ai/convida_ai/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/germano/Documents/GitHub/convida_ai/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
