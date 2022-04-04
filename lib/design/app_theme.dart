@@ -7,6 +7,7 @@ class AppTheme {
     textTheme: TextTheme(
       titleMedium: TextStyle(
         fontFamily: GoogleFonts.inter().fontFamily,
+        fontSize: 24,
       ),
     ),
     backgroundColor: AppColors.backgroundcolor,
